@@ -1,0 +1,5 @@
+#By changing the setting below to TRUE you are indicating your agreement to our EULA (https://zfgame.00wr.cn/Document/eula.html).
+#Mon Sep 20 20:36:30 CST 2021
+eula=false
+
+
